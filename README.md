@@ -1,5 +1,5 @@
 # Tamagotchi
-https://goo.gl/forms/pirc742VNcs8qln22 - Test
+https://goo.gl/forms/BpsWaZo8a019tqXi2 - Test
 
 Фамилия       	| Количество возможных ошибок 	| Лекции
 ----------------| ----------------------------- | ----------------------------
